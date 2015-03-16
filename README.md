@@ -20,5 +20,5 @@ In your web.xml file place the following XML:
 </filter-mapping>
 ```
 
-The X-Clacks-Overhead filter should now be added to your application.
+The X-Clacks-Overhead header should now be added by your application.
 
